@@ -46,6 +46,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'acts_as_votable', '~> 0.12.0'
 gem 'wdm', '~> 0.1.1'
+gem 'figaro', '~> 1.1', '>= 1.1.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
